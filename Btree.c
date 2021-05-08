@@ -32,7 +32,7 @@ Btree newBtree(void)
 	return NULL;
 }
 
-int emptuBtree(Btree T)
+int emptyBtree(Btree T)
 {
 	return T == NULL;
 
